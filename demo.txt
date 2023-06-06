@@ -1,1 +1,2 @@
 This ismy first demo file for git
+Editing the file to understand Jenkins-Poll SCM works
